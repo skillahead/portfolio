@@ -1,17 +1,6 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi! I'm Anietie Etuk 🤓, a Data Analyst specializing in data-driven insights, business intelligence, and process optimization. Proficient in Excel, Power BI, and Python. Passionate about transforming complex datasets into actionable strategies for business growth.
-
-
-<!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
-
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
-
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
-
 **- ✅ Staff Training & Development.**
 I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
 
@@ -19,12 +8,10 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
-*A glimpse of some of the projects I've been working on.*
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Supply Chain / Procurement / Cost Variance Analysis**
 ![image](assets/data analytics anietie etuk sales procurement.png)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+Learn how we used data to cut cost, while maintaining the highest quality for our client.
 
 
 [Read More](https://www.linkedin.com/posts/etukanietie_jkb-activity-7269339189672898561-q0_c?utm_source=share&utm_medium=member_desktop)
@@ -47,6 +34,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 
 ## MY CLASSES
+*A glimpse of some of the projects I've been working on.*
 ![image](assets/class.jpg)
 *Call my admin for details about the classes: 08034730987.*
 
