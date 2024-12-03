@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi there! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi dear! I'm Anietie Etuk 🤓, a Data Analyst specializing in data-driven insights, business intelligence, and process optimization. Proficient in Excel, Power BI, and Python. Passionate about transforming complex datasets into actionable strategies for business growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
